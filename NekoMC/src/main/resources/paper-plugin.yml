@@ -1,0 +1,4 @@
+name: NekoMC
+version: '1.0-SNAPSHOT'
+main: town._2b2t.nekoMC.NekoMC
+api-version: '1.21'
